@@ -1,0 +1,9 @@
+{
+  "raw_data_folder": "data/raw",
+  "processed_folder": "data/processed",
+  "selections_folder": "data/selections",
+  "outputs_folder": "outputs",
+  "approved_subfolder": "approved",
+  "validation_subfolder": "validation",
+  "analysis_subfolder": "analysis"
+}
